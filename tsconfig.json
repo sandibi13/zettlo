@@ -1,0 +1,3 @@
+{
+  "extends": "@zettlo/typescript-config/base.json"
+}
